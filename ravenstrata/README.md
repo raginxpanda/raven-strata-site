@@ -1,4 +1,4 @@
-# Raven Strata — Landing Page
+# Raven Strata — Landing Page 
 
 ## Deploy to Vercel
 
